@@ -1,0 +1,8 @@
+#  //am base modules
+/deployment/global/config,\
+/deployment/global/modules/wrm-menuTabs/*.jar,\
+/deployment/global/modules/wm-breadCrumb/*.jar,\
+/deployment/global/modules/wm-interceptor/*.jar,\
+/deployment/global/modules/wm-portalConfig/*.jar,\
+/deployment/global/modules/wrm-header/*.jar,\
+/deployment/global/modules/wm-imageLoader/*.jar,\
